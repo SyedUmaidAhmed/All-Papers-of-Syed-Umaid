@@ -14,3 +14,15 @@ Citation:
   publisher={Elsevier}
 }
 ```
+
+
+```
+@article{ahmed2024dataset,
+  title={Dataset of Cattle Biometrics through Muzzle Images},
+  author={Ahmed, Syed Umaid and Frnda, Jaroslav and Waqas, Muhammad and Khan, Muhammad Hassan},
+  journal={Data in Brief},
+  pages={110125},
+  year={2024},
+  publisher={Elsevier}
+}
+```

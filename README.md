@@ -16,6 +16,8 @@ Citation:
 ```
 
 **2. Dataset of Cattle Biometrics through Muzzle Images Elsevier(Q2,IF:1.2)**
+
+Citation:
 ```
 @article{ahmed2024dataset,
   title={Dataset of Cattle Biometrics through Muzzle Images},
@@ -28,6 +30,8 @@ Citation:
 ```
 
 **3. Exploring Multiple Instance Learning (MIL): A brief survey Elsevier(Q1,IF:8.5)**
+
+Citation:
 ```
 @article{waqas2024exploring,
   title={Exploring Multiple Instance Learning (MIL): A brief survey},

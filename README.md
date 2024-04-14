@@ -1,4 +1,4 @@
-# All-Papers-of-Syed-Umaid
+# All-Journal-Articles-of-Syed-Umaid
 From this repository you can download all my subscription based Journal papers for free by checking the list
 
 **1. Leaf classification on Flavia dataset: A detailed review Elsevier(Q1,IF:4.5)**
